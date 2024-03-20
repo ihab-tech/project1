@@ -1,4 +1,5 @@
 public class Circle {
+    // This is a radius variable
     private double radius;
 
     public void setRadius(double nr) {
