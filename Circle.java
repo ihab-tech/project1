@@ -1,5 +1,5 @@
 public class Circle {
-    private int radius;
+    private double radius;
 
     public void setRadius(double nr) {
         if(nr > 0) {
